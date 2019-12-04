@@ -1,0 +1,70 @@
+/*DEVELOPER: Ke Zhang, IS117-001, Fall, 2019 */
+#nav{
+	height:70px;
+	width:980px;
+	text-align:center;
+	font-size:22px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:30px;
+	margin-bottom:30px;
+	border-radius:12px;
+	border:solid 1px #F0F0F0;
+	background-image: -webkit-gradient(
+	linear,
+	left top,
+	left bottom,
+	color-stop(0, rgb(248, 248, 248)),
+	color-stop(0.49, rgb(240, 240, 240)),
+	color-stop(0.51, rgb(225, 225, 225)),
+	color-stop(1, rgb(255, 255, 255))
+);
+background-image: -o-linear-gradient(bottom, rgb(248, 248, 248) 0%, rgb(240, 240, 240) 49%, rgb(225, 225, 225) 51%, rgb(255, 255, 255) 100%);
+background-image: -moz-linear-gradient(bottom, rgb(248, 248, 248) 0%, rgb(240, 240, 240) 49%, rgb(225, 225, 225) 51%, rgb(255, 255, 255) 100%);
+background-image: -webkit-linear-gradient(bottom, rgb(248, 248, 248) 0%, rgb(240, 240, 240) 49%, rgb(225, 225, 225) 51%, rgb(255, 255, 255) 100%);
+background-image: -ms-linear-gradient(bottom, rgb(248, 248, 248) 0%, rgb(240, 240, 240) 49%, rgb(225, 225, 225) 51%, rgb(255, 255, 255) 100%);
+background-image: linear-gradient(to bottom, rgb(248, 248, 248) 0%, rgb(240, 240, 240) 49%, rgb(225, 225, 225) 51%, rgb(255, 255, 255) 100%);
+}
+
+#nav li{
+	display:inline;
+	margin-left:30px;
+	margin-right:30px;
+}
+a{
+	text-decoration:none;
+	color:black;
+  font-size:22px;
+  margin-left: auto;
+  margin-right: auto;
+}
+body {
+  background-color:#F5DEB3;
+}
+h1 {
+  font-size:26px;
+}
+th{
+  font-size:20px;
+}
+td{
+  font-size:20px;
+}
+p{
+  font-size:18px;
+}
+footer{
+  bottom: auto;
+}
+table{
+  margin-left:auto;
+  margin-right: auto;
+}
+li{
+  margin-left: auto;
+  margin-right: auto;
+}
+ul{
+  margin-left: auto;
+  margin-right: auto;
+}
